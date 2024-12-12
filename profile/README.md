@@ -10,3 +10,9 @@
 ![12 시연](https://github.com/user-attachments/assets/e1cba52d-500b-4282-94b6-6a29ed12a345)
 ![14](https://github.com/user-attachments/assets/1a7903fa-f94e-444f-aeb5-55d0aeb02ae6)
 ![15](https://github.com/user-attachments/assets/63f03c76-63fa-4aa7-ab8a-4638c5ee6e92)
+
+## 실행화면
+|랜딩페이지|회원가입|로그인|
+|-------|------|----|
+|![pocket2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aa8fac30-acb4-430e-97bc-b9c32bc4543f)|![pocket5-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1c520474-5609-48b4-aa99-9520df103333)|![pocket-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e6a0ad2d-005e-46bd-80c9-bbda2353cec4)|
+|애니메이션과 서비스에 대한 소개|이메일 형식, 비밀번호 확인에 대한 유효성 검사 진행 후 회원가입|로그인 절차|
