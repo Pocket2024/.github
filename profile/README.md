@@ -27,3 +27,7 @@
 |![pocket12-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/14137e52-eb8f-4873-bc61-37fa1ad9a42f)|![pocket11-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ada49df4-e4aa-4870-b291-5d0f756c2a09)|![pocket10-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3df888e2-296f-44d9-a24a-bc09ab885657)
 |선택한 티켓 이미지로부터 제목, 날짜, 장소, 좌석 정보 추출|티켓의 표지 이미지 선택 시 미리보기 가능|리뷰 작성, 이미지 첨부(최대 3장), 비공개/공개 설정 가능|
 
+|좋아요 및 번역 기능|대표 티켓 설정|내가 좋아요 누른 티켓 확인|
+|--|--|--|
+|![pocket9-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d129b4bd-6dd1-4ed3-b072-c205bc6473b6)|![pocket17-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/41d3a299-8b18-46f3-8e56-051f485fda1a)|![pocket15-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5df72b5d-1203-4cbe-a97f-c5a15264ac3c)
+|좋아요 등록 및 취소, 영어 번역 가능|오른쪽 상단 버튼을 통해 대표 티켓으로 설정 가능|마이페이지의 오른쪽 상단 버튼을 통해 유저가 좋아요 누른 티켓 확인 가능|
