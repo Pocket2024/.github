@@ -16,3 +16,10 @@
 |-------|------|----|
 |![pocket2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aa8fac30-acb4-430e-97bc-b9c32bc4543f)|![pocket5-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1c520474-5609-48b4-aa99-9520df103333)|![pocket-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e6a0ad2d-005e-46bd-80c9-bbda2353cec4)|
 |애니메이션과 서비스에 대한 소개|이메일 형식, 비밀번호 확인에 대한 유효성 검사 진행 후 회원가입|로그인 절차|
+
+|포켓(카테고리) 생성|포켓에 티켓 생성 방법(1)|포켓에 티켓 생성 방법(2)|
+|----------|----|----|
+|![pocket4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5fecdde-a9bf-4f0d-b3d7-e8ef54ca50eb)|![pocket3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4d1fb197-383b-40e0-9690-78d9b54ee5f7)|![pocket16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/874cd926-df79-4b89-be87-247879ae7cc2)
+|'+'버튼 클릭 시 나타나는 모달에서 포켓 이름과 색상 설정 가능|포켓을 클릭한 후 해당 포켓에 티켓 생성 가능|오른쪽 하단의 티켓 업로드 버튼을 통해 드롭다운을 통해 원하는 포켓(카테고리) 선택 가능|
+
+
