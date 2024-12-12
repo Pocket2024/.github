@@ -22,4 +22,8 @@
 |![pocket4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5fecdde-a9bf-4f0d-b3d7-e8ef54ca50eb)|![pocket3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4d1fb197-383b-40e0-9690-78d9b54ee5f7)|![pocket16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/874cd926-df79-4b89-be87-247879ae7cc2)
 |'+'버튼 클릭 시 나타나는 모달에서 포켓 이름과 색상 설정 가능|포켓을 클릭한 후 해당 포켓에 티켓 생성 가능|오른쪽 하단의 티켓 업로드 버튼을 통해 드롭다운을 통해 원하는 포켓(카테고리) 선택 가능|
 
+|티켓 이미지로부터 정보 추출|티켓 표지 이미지 선택 및 미리보기|티켓 리뷰 작성|
+|--|--|--|
+|![pocket12-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/14137e52-eb8f-4873-bc61-37fa1ad9a42f)|![pocket11-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ada49df4-e4aa-4870-b291-5d0f756c2a09)|![pocket10-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3df888e2-296f-44d9-a24a-bc09ab885657)
+|선택한 티켓 이미지로부터 제목, 날짜, 장소, 좌석 정보 추출|티켓의 표지 이미지 선택 시 미리보기 가능|리뷰 작성, 이미지 첨부(최대 3장), 비공개/공개 설정 가능|
 
